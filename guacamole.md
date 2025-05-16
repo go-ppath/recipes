@@ -4,4 +4,5 @@
 * Lime
 * Salt
 ## Instructions
-#added some edits (goutom)
+<<<<<<< HEAD
+#added some edits
